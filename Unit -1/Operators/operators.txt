@@ -1,0 +1,12 @@
+// operatos in java:
+arthimetic operatos:
+used to calculations
+
++ , - , * , / , %
+
+
+bitwise operators 
+
+Scanner in java
+
+conditonal statements

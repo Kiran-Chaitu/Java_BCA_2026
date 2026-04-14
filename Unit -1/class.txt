@@ -1,0 +1,4 @@
+returntype methodName(parameters){
+    // block of code;
+    return;
+}

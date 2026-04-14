@@ -1,0 +1,114 @@
+// The two paradigms (POP , OOP):-
+
+POP:-
+Procedure Oriented Programming
+
+main(){
+
+    fun1
+    fun2
+    fun3
+}
+
+Data is shared Globally
+
+
+
+disadvantage:
+there is no security
+it cant hangle large number of files
+
+
+
+oop:-
+(Object Oriented Programing)
+Object and classes
+
+Data Security 
+
+way better orginzing of code than POP
+
+
+// Class
+
+What is Class:-
+
+Class is a Blueprint or template 
+
+it can define the data (varibales )
+it also define the behaviours 
+
+// Object
+Object = Instance of Class
+
+
+// Four Pillars of OOPS
+(Inheritance  , Encapsulation ,
+ Abstraction , PolyMorpshim)
+
+
+Inheritance :-
+ Passing assets , behaviours from parents to childrens
+ parent classes / super classes
+
+ child classes / dervied classes
+
+ //Encapsulation
+
+  // Access Modifiers :- public , private , protected , default
+
+
+ // Abstraction
+
+// we hide the internal proccess or any unneccassary 
+    tasks 
+
+ //PolyMorpshim
+
+ Poly = ? Many
+ Morph = ? form
+
+
+
+
+// Naming Conventions of Files , classes
+
+For creating class:-
+Pascal case
+BankAccount
+
+For varibales or methods:-
+camelCase
+bankAmount
+displayDetails
+
+
+how to name the java files:-
+1) file name should match with the public class
+2) the extension should be .java
+
+how to compile the java files:-
+
+    javac Filename.java
+    javac Math.java
+
+how to run the java files/ classes:-
+** after compilation of java file
+    java classname
+    java Math
+
+
+// Different ways to print statements in java:-
+
+public class Math {
+
+    public static void main(String[] args) {
+        System.out.printf("C language method\n");
+
+        System.out.print("works without new line\n");
+
+        System.out.println("  Math Class");
+
+        System.out.println("Next Line");
+    }
+}

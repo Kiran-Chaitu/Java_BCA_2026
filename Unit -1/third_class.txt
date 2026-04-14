@@ -1,0 +1,44 @@
+//revise the basic syntax of java
+ctrl + ~
+// sample programs through print
+
+
+//data types & varibales
+data type :- 
+
+    it specifies the type of data 
+    we are storing in a variable
+
+variable :-
+    it is a named memory location
+
+data types:-
+small integers - byte , short
+Integers -  int
+large integers - long
+Decimals - float
+large decimals - double
+characters - char
+Group of characters - String
+boolean - true/false
+
+// rules for creating variable:
+use camelCase , Ex: - bankAmount
+never start with numbers ex : 1number , 2number 
+
+number1 , number2 these are valid
+use only (_ or $) special keywords
+dont use any other special characters like &,<,> , *
+
+never use the java keywords
+public , class ,private , int , String
+
+Integers
+decimals 
+characters
+Strings
+true / false
+
+
+
+// operators

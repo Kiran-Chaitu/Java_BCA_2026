@@ -1,0 +1,87 @@
+//Conditionals statements
+
+conditonal statements allow the program to excetue the block of code
+ only if the conditon is true
+
+
+ if(Condition){
+    // code statements
+ }
+ else if(condtion){
+    // block of code
+ }
+ else if(condtion){
+    // block of code
+ }
+ else if(condtion){
+    // block of code
+ }
+ else{
+
+ }
+
+
+   // Switch Case
+   Switch(variable/expression){
+      case value1:
+         //block of code
+         break;
+      case value2:
+         //block of code
+         break;
+      defalut:
+         //block of code
+   }
+
+
+
+ // loops
+   // to do the same task repeatidly
+   //for  , while , do while 
+
+
+
+   //Syntax of for loop:
+   for(initilization ; conditon ; updation){
+      // block of code
+   }
+
+
+   while(conditon){
+      //block of code
+   }
+   example programs of while loop
+   do while loop
+   nested loops
+   example programs of nested loop
+
+
+
+   Syntax for do-while loop
+   // initilization
+   do{
+      //block of code
+      //updation
+   }while(conditon);
+
+
+
+ * * * *
+ * * * *
+ * * * *
+ * * * *
+
+
+
+ datatype[] name = new datatype[];
+//  int[] arr = new int[5];
+
+
+
+
+
+
+
+
+
+

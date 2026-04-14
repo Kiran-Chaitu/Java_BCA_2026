@@ -1,0 +1,20 @@
+
+revise previous concepts:
+printf , print , println
+
+variable
+
+data type
+
+class
+
+
+syntax for creating :-
+
+datatype  variablename = value;
+
+//today topics
+
+operators in java
+
+Scanner 
