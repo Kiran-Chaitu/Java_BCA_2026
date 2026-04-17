@@ -5,7 +5,6 @@ ctrl + ~
 
 //data types & varibales
 data type :- 
-
     it specifies the type of data 
     we are storing in a variable
 
