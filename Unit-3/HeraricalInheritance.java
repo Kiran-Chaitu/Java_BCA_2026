@@ -15,10 +15,12 @@ class IronMan extends Avengers{
     }
 }
 class Thor extends Avengers{
+    public String name;
     Thor(){
         System.out.println("Thor");
     }
     public void thunderGod(){
+        var power = 1000;
         System.out.println("Thor is a Thunder God");
     }
 }

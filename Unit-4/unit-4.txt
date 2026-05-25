@@ -1,0 +1,33 @@
+ checked exceptions - > checked at compile time
+ ClassNotFound , FileNotFound ,Recovarble
+
+ unchekcked exceptions -> checked at runtime
+
+ ArithmeticExcetpion ,ArrayIndexOutOfBoundsException ,NullPointerException
+
+
+try{
+
+}
+contains the code which may generate an exceptions
+// risky code written inside try block
+catch(ExceptionType e){
+    
+}
+handles the exception generated inside try block
+
+try{
+    //risky code
+}catch(ExceptionType e){
+    //handle exception
+}
+
+
+Java Built-In Exceptions:-
+ArithmeticExcetpion
+ArrayIndexOutOfBoundsException
+NullPointerException
+
+StringIndexOutOfBoundsException
+NumberFormatException
+FileNotFoundException
