@@ -1,0 +1,32 @@
+class NumberThread extends Thread{
+    public void run(){
+        for(int i=1;i<=5;i++){
+            System.out.println(i);
+            try{
+                Thread.sleep(100);
+            }catch(InterruptedException e){
+                e.printStackTrace();
+            }
+        }
+    }
+}
+class AlphabetThread extends Thread{
+    public void run(){
+        for(char ch='A' ; ch<='E';ch++){
+            System.out.println(ch);
+            try{
+                Thread.sleep(100);
+            }catch(InterruptedException e){
+                e.printStackTrace();
+            }
+        }
+    }
+}
+public class LabMain{
+    public static void main(String args[]){
+        NumberThread numberThread = new NumberThread();
+        AlphabetThread alphabetThread = new AlphabetThread();
+        numberThread.start();
+        alphabetThread.start();
+    }
+}
